@@ -66,6 +66,11 @@ KPIs | Estratégia
 - Data Analytics
 - Marketing Intelligence
 - Automação de processos
-- Gestão de Projetos de Tecnologia 
+- Gestão de Projetos de Tecnologia
+
+## 📫 Contato
+Marcus Guedes
+
+LinkedIn : https://www.linkedin.com/in/marcusguedes/  
 
 
