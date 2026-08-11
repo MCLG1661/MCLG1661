@@ -71,6 +71,7 @@ KPIs | Estratégia
 ## 📫 Contato
 Marcus Guedes
 
+E-Mail : marcusguedes@primeperformancedigital.com.br
 LinkedIn : https://www.linkedin.com/in/marcusguedes/  
 
 
