@@ -30,7 +30,7 @@ visualização e acompanhamento de indicadores operacionais.
 ---
 
 ### 📈 Analista de Marketing Inteligente
-Projeto de Marketing Intelligence que transforma dados de campanhas em análises
+Projeto de Marketing Intelligence que transforma dados de campanhas em análises 
 e insights para apoiar decisões orientadas por dados.
 
 **Tecnologias:** Python | Marketing Analytics | Data Analytics | IA
