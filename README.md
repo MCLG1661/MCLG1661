@@ -38,6 +38,18 @@ Uma seleção de projetos que representam diferentes dimensões da minha atuaç�
 
 ---
 
+### 💼 Marcus Guedes — Professional Portfolio
+
+Portfólio profissional que integra minha trajetória em **Marketing, Gestão e Operações** com projetos e competências em **Data Science, Analytics e Inteligência Artificial**.
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `Data & AI`
+
+🔗 [Explorar projeto](https://github.com/MCLG1661/Marcus-Guedes-Professional-Portfolio)
+
+🌐 [Acessar portfólio](https://portfolio-update-buddy.lovable.app/)
+
+---
+
 ### 🤖 AI Knowledge Assistant
 
 Sistema para **organização, classificação e recuperação de conhecimento técnico**, combinando Machine Learning, APIs e recursos de Inteligência Artificial.
@@ -123,6 +135,7 @@ Projetos que ampliam o portfólio demonstrando diferentes tecnologias, abordagen
 - 🧭 Mentor de Carreira
 - 💬 Conversa com Grana
 - 📖 Memórias Invisíveis
+- 🎧 DJ Marcus Guedes - Portfólio
 
 
 ### 🟡 Learning & Challenges
