@@ -32,7 +32,7 @@ Buscando transformar tecnologia em **eficiência operacional, inteligência para
 
 ---
 
-# ⭐ Featured Projects
+## ⭐ Featured Projects
 
 Uma seleção de projetos que representam diferentes dimensões da minha atuação em **IA, Dados, Marketing e Negócios**.
 
@@ -126,7 +126,7 @@ Atuação no projeto envolvendo também **organização, colaboração e gestão
 
 ---
 
-## 🔭 Atualmente explorando
+## 🔭 Atualmente Explorando
 
 Meu desenvolvimento atual está concentrado principalmente em :
 
@@ -141,7 +141,7 @@ Meu desenvolvimento atual está concentrado principalmente em :
 
 ---
 
-## 💡 Minha abordagem
+## 💡 Minha Abordagem
 
 Tecnologia, por si só, não resolve problemas de negócio.
 
