@@ -120,7 +120,7 @@ Projetos que ampliam o portfólio demonstrando diferentes tecnologias, abordagen
 - 🌿 EcoTrip
 - ⚛️ Samsung Ocean Front End 2026
 - ⚙️ Trello Workflow Automation
-- Mentor de Carreira
+- 🧭 Mentor de Carreira
 - 💬 Conversa com Grana
 - 📖 Memórias Invisíveis
 
@@ -134,7 +134,7 @@ Projetos desenvolvidos durante cursos, bootcamps, challenges e etapas da minha f
 - 📊 Alura Imersão Dados Python
 - 🎵 Beatles / NotebookLM
 - 🎁 Amigo Secreto
-- Número Secreto
+- 🔢 Número Secreto
 
 ## 🧰 Tech Stack & Competências
 
