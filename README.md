@@ -102,6 +102,37 @@ Atuação no projeto envolvendo também **organização, colaboração e gestão
 
 ---
 
+## 🗂️ Portfólio por Categoria
+
+Organizei meus projetos de acordo com seu papel dentro da minha trajetória de desenvolvimento.
+
+### 🟢 Projetos Complementares
+
+Projetos que ampliam o portfólio demonstrando diferentes tecnologias, abordagens e aplicações.
+
+- 🎙️ Assistente de Voz com IA
+- 📱 Instagram Lifestyle Analytics
+- 🕸️ Streaming Graph Model
+- ®️ Agente de Registro de Marcas
+- 🌱 ECO Connect AI
+- 🎮 AI Gamer Sales Assistant
+- ⚙️ Trello Workflow Automation
+- 💬 Conversa com Grana
+- 🌿 EcoTrip
+- Telecom X — Parte II
+
+### 🟡 Learning & Challenges
+
+Projetos desenvolvidos durante cursos, bootcamps, challenges e etapas da minha formação técnica.
+
+- Telecom X — Parte I
+- Alura Store
+- Samsung Ocean Frontend
+- Alura Imersão Dados Python
+- Beatles / NotebookLM
+- Amigo Secreto
+- Número Secreto
+
 ## 🧰 Tech Stack & Competências
 
 ### 📊 Data & Analytics
