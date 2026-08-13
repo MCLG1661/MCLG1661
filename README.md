@@ -44,7 +44,7 @@ Portfólio profissional que integra minha trajetória em **Marketing, Gestão e 
 
 `React` `TypeScript` `Vite` `Tailwind CSS` `Data & AI`
 
-🔗 [Explorar projeto](https://github.com/MCLG1661/Marcus-Guedes-Professional-Portfolio)
+🔗 [Explorar projeto](https://github.com/MCLG1661/Marcus-Guedes-Portfolio/tree/main)
 
 🌐 [Acessar portfólio](https://portfolio-update-buddy.lovable.app/)
 
