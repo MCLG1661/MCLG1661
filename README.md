@@ -104,7 +104,7 @@ Atuação no projeto envolvendo também **organização, colaboração e gestão
 
 ## 🗂️ Portfólio por Categoria
 
-Organizei os demais projetos de acordo com seu papel dentro da minha trajetória de desenvolvimento.
+Os demais projetos, foram organizados, de acordo com seu papel dentro da minha trajetória de desenvolvimento.
 
 ### 🟢 Projetos Complementares
 
