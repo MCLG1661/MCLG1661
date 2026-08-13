@@ -194,9 +194,9 @@ Tecnologia, por si só, não resolve problemas de negócio.
 
 Por isso, procuro desenvolver projetos partindo de três perguntas :
 
-**1. Qual problema estamos tentando resolver?**  
-**2. Como dados e tecnologia podem apoiar essa decisão?**  
-**3. Qual valor a solução efetivamente entrega?**
+**1. Qual problema estamos tentando resolver ?**  
+**2. Como dados e tecnologia podem apoiar essa decisão ?**  
+**3. Qual valor a solução efetivamente entrega ?**
 
 Essa abordagem conecta minha experiência em **negócios e gestão** ao desenvolvimento de competências em **Dados e Inteligência Artificial**.
 
