@@ -198,6 +198,6 @@ Essa abordagem conecta minha experiência em **negócios e gestão** ao desenvol
 
 ---
 
-**Construindo soluções que conectam tecnologia, inteligência e tomada de decisão.**
+**CONSTRUINDO SOLUÇÕES QUE CONECTAM TECNOLOGIA, INTELIGÊNCIA E TOMADA DE DECISÃO**
 
 
