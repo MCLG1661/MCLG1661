@@ -110,27 +110,30 @@ Organizei os demais projetos de acordo com seu papel dentro da minha trajetória
 
 Projetos que ampliam o portfólio demonstrando diferentes tecnologias, abordagens e aplicações.
 
+- 📡 Telecom X — Parte II
 - 🎙️ Assistente de Voz com IA
 - 📱 Instagram Lifestyle Analytics
 - 🕸️ Streaming Graph Model
 - ®️ Agente de Registro de Marcas
 - 🌱 ECO Connect AI
 - 🎮 AI Gamer Sales Assistant
-- ⚙️ Trello Workflow Automation
-- 💬 Conversa com Grana
 - 🌿 EcoTrip
-- Telecom X — Parte II
+- ⚛️ Samsung Ocean Front End 2026
+- ⚙️ Trello Workflow Automation
+- Mentor de Carreira
+- 💬 Conversa com Grana
+- 📖 Memórias Invisíveis
+
 
 ### 🟡 Learning & Challenges
 
 Projetos desenvolvidos durante cursos, bootcamps, challenges e etapas da minha formação técnica.
 
-- Telecom X — Parte I
-- Alura Store
-- Samsung Ocean Frontend
-- Alura Imersão Dados Python
-- Beatles / NotebookLM
-- Amigo Secreto
+- 📡 Telecom X — Parte I
+- 🛍️ Alura Store
+- 📊 Alura Imersão Dados Python
+- 🎵 Beatles / NotebookLM
+- 🎁 Amigo Secreto
 - Número Secreto
 
 ## 🧰 Tech Stack & Competências
