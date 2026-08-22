@@ -50,13 +50,27 @@ Portfólio profissional que integra minha trajetória em **Marketing, Gestão e 
 
 ---
 
-### 🤖 AI Knowledge Assistant
+### 🧠 Hackathon ONE G9
 
-Sistema para **organização, classificação e recuperação de conhecimento técnico**, combinando Machine Learning, APIs e recursos de Inteligência Artificial.
+Projeto colaborativo para **classificação inteligente de conteúdos técnicos**, utilizando processamento de texto, Machine Learning e integração via API.
 
-`Python` `Machine Learning` `NLP` `FastAPI` `OCI`
+Atuação no projeto envolvendo também **organização, colaboração e gestão do desenvolvimento da equipe**.
 
-🔗 [Explorar projeto](https://github.com/MCLG1661/CHALLENGE-ONE-AI-TECH-BUILDER-AI-Knowledge-Assitant)
+`Python` `Scikit-learn` `TF-IDF` `Machine Learning` `FastAPI` `OCI`
+
+🔗 [Explorar projeto](https://github.com/No-Country-simulation/G9-BR-Team-04)
+
+---
+
+### 🇵🇹 PORDATA — Clustering de Municípios Portugueses
+
+Projeto de **Data Science e Machine Learning** desenvolvido a partir de dados da PORDATA para identificar padrões entre municípios portugueses por meio de técnicas de clusterização.
+
+Desenvolvido como trabalho final do curso **Análise de Dados com Python**, ministrado pelo então Instituto Politécnico de Viana do Castelo (IPVC), atual Universidade Politécnica de Viana do Castelo.
+
+`Python` `Pandas` `Scikit-learn` `K-Means` `PCA` `Data Science`
+
+🔗 [Explorar projeto](https://github.com/MCLG1661/Pordata-Municipal-Clustering)
 
 ---
 
@@ -67,6 +81,16 @@ Projeto de **Data Analytics aplicado a uma operação real**, utilizando dados p
 `Python` `Streamlit` `Pandas` `Data Analytics` `Data Visualization`
 
 🔗 [Explorar projeto](https://github.com/MCLG1661/Operacao-Labora-Ambipar)
+
+---
+
+### 🤖 AI Knowledge Assistant
+
+Sistema para **organização, classificação e recuperação de conhecimento técnico**, combinando Machine Learning, APIs e recursos de Inteligência Artificial.
+
+`Python` `Machine Learning` `NLP` `FastAPI` `OCI`
+
+🔗 [Explorar projeto](https://github.com/MCLG1661/CHALLENGE-ONE-AI-TECH-BUILDER-AI-Knowledge-Assitant)
 
 ---
 
@@ -90,27 +114,17 @@ Aplicação de **Graph Data Science** para explorar relações entre músicas e 
 
 ---
 
-### 🏆 Enciclopédia de Tecnologia — Imersão DEV 10
+## 🏆 Destaques & Reconhecimentos
+
+### 💻 Enciclopédia de Tecnologia — Imersão DEV 10
 
 Base de conhecimento interativa sobre tecnologia desenvolvida com JavaScript e JSON.
 
-**🏆 Projeto selecionado entre os 10 melhores trabalhos da Imersão DEV 10.**
+**Projeto selecionado entre os 10 melhores trabalhos da Imersão DEV 10.**
 
 `JavaScript` `HTML5` `CSS3` `JSON` `Information Retrieval`
 
 🔗 [Explorar projeto](https://github.com/MCLG1661/Imersao-DEV-10)
-
----
-
-### 🧠 Hackathon ONE G9
-
-Projeto colaborativo para **classificação inteligente de conteúdos técnicos**, utilizando processamento de texto, Machine Learning e integração via API.
-
-Atuação no projeto envolvendo também **organização, colaboração e gestão do desenvolvimento da equipe**.
-
-`Python` `Scikit-learn` `TF-IDF` `Machine Learning` `FastAPI` `OCI`
-
-🔗 [Explorar projeto](https://github.com/No-Country-simulation/G9-BR-Team-04)
 
 ---
 
