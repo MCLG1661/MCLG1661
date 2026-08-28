@@ -1,218 +1,292 @@
-# Marcus Guedes
+# 💼 Marcus Guedes — Professional Portfolio
 
-### Marketing • Data Science • Artificial Intelligence • Project Management
+> **Project Management • Operations & Performance • Data Analytics • AI Applied to Business**
 
-*Transformando **dados, tecnologia e inteligência artificial em soluções para problemas reais de negócio**.*
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit-2ea44f)](https://portfolio-update-buddy.lovable.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcus_Guedes-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcusguedes/)
+[![GitHub](https://img.shields.io/badge/GitHub-MCLG1661-181717?logo=github&logoColor=white)](https://github.com/MCLG1661)
 
----
+Portfólio profissional que reúne minha experiência em **Gestão de Projetos, Operações, Performance e Marketing** com aplicações de **Data Analytics e Inteligência Artificial** voltadas à resolução de problemas de negócio.
 
-## 👨‍💼 Sobre Mim
-
-Profissional multidisciplinar com experiência em **Marketing, Operações, Gestão e Estratégia**, ampliando essa trajetória com atuação e desenvolvimento de projetos em **Data Science, Analytics e Inteligência Artificial**.
-
-Meu portfólio reúne aplicações de **IA Generativa, Machine Learning, RAG, Graph Data Science, Marketing Analytics, automação e desenvolvimento de soluções orientadas por dados**.
-
-Meu principal interesse está na interseção entre :
-
-**Negócio + Dados + Inteligência Artificial**
-
-Buscando transformar tecnologia em **eficiência operacional, inteligência para tomada de decisão e geração de valor**.
+> **Business + Data + AI**  
+> Transformando experiência de negócio, dados e inteligência artificial em soluções para performance, decisão e transformação.
 
 ---
 
-## 🎯 Áreas de Atuação
+## 🌐 Live Portfolio
 
-| | Área | Foco |
-|---|---|---|
-| 🤖 | **AI & Generative AI** | LLMs, RAG, AI Agents e Prompt Engineering |
-| 📊 | **Data Science & Analytics** | Machine Learning, análise e visualização de dados |
-| 📈 | **Marketing & Business** | Marketing Intelligence, KPIs e estratégia |
-| 🕸️ | **Graph Data Science** | Neo4j, grafos e sistemas de recomendação |
-| 🚀 | **Project Management** | Projetos, operações e transformação digital |
+O portfólio completo está disponível online:
+
+### 👉 [Acessar Marcus Guedes — Professional Portfolio](https://portfolio-update-buddy.lovable.app/)
 
 ---
 
-## ⭐ Featured Projects
+## 🖥️ Preview
 
-Uma seleção de projetos que representam diferentes dimensões da minha atuação em **IA, Dados, Marketing e Negócios**.
-
----
-
-### 💼 Marcus Guedes — Professional Portfolio
-
-Portfólio profissional que integra minha trajetória em **Marketing, Gestão e Operações** com projetos e competências em **Data Science, Analytics e Inteligência Artificial**.
-
-`React` `TypeScript` `Vite` `Tailwind CSS` `Data & AI`
-
-🔗 [Explorar projeto](https://github.com/MCLG1661/Marcus-Guedes-Portfolio/tree/main)
-
-🌐 [Acessar portfólio](https://portfolio-update-buddy.lovable.app/)
+<img width="1920" height="1080" alt="Marcus Guedes Professional Portfolio" src="https://github.com/user-attachments/assets/2af04457-b91a-4049-8124-c375be0c06b5" />
 
 ---
 
-### 🧠 Hackathon ONE G9
+## 👨‍💼 Perfil Profissional
 
-Projeto colaborativo para **classificação inteligente de conteúdos técnicos**, utilizando processamento de texto, Machine Learning e integração via API.
+Minha trajetória foi construída em áreas como **Marketing, Gestão Comercial, Operações e Gestão de Projetos**, com atuação em planejamento, processos, indicadores, performance, relacionamento com stakeholders e desenvolvimento de estratégias orientadas a resultados.
 
-Atuação no projeto envolvendo também **organização, colaboração e gestão do desenvolvimento da equipe**.
+Nos últimos anos, ampliei essa experiência por meio de **Data Analytics, Machine Learning, Cloud Computing e Inteligência Artificial**, desenvolvendo projetos que conectam tecnologia à compreensão do negócio.
 
-`Python` `Scikit-learn` `TF-IDF` `Machine Learning` `FastAPI` `OCI`
+Essa combinação permite abordar problemas de forma multidisciplinar:
 
-🔗 [Explorar projeto](https://github.com/No-Country-simulation/G9-BR-Team-04)
+```text
+Problema de Negócio
+        ↓
+Estratégia
+        ↓
+Dados & Analytics
+        ↓
+Tecnologia / IA
+        ↓
+Implementação
+        ↓
+Decisão & Resultado
+```
+
+O objetivo não é utilizar tecnologia como fim, mas aplicá-la onde ela possa **melhorar processos, gerar inteligência, apoiar decisões e criar valor para o negócio**.
 
 ---
 
-### 🇵🇹 PORDATA — Clustering de Municípios Portugueses
+## 🧭 Áreas de Atuação
 
-Projeto de **Data Science e Machine Learning** desenvolvido a partir de dados da PORDATA para identificar padrões entre municípios portugueses por meio de técnicas de clusterização.
-
-Desenvolvido como trabalho final do curso **Análise de Dados com Python**, ministrado pelo então Instituto Politécnico de Viana do Castelo (IPVC), atual Universidade Politécnica de Viana do Castelo.
-
-`Python` `Pandas` `Scikit-learn` `K-Means` `PCA` `Data Science`
-
-🔗 [Explorar projeto](https://github.com/MCLG1661/Pordata-Municipal-Clustering)
+| Área | Competências |
+|---|---|
+| 🚀 **Project Management & PMO** | Projetos, stakeholders, KPIs, processos, Agile e transformação |
+| ⚙️ **Operations & Performance** | Gestão operacional, produtividade, indicadores e melhoria contínua |
+| 📊 **Data & Analytics** | Python, SQL, Pandas, Power BI, ETL, EDA e Data Visualization |
+| 🤖 **Artificial Intelligence** | Generative AI, RAG, LLMs, AI Agents, Machine Learning e NLP |
+| 📈 **Marketing & Business** | Estratégia, Marketing Analytics, CRM, Growth e Gestão Comercial |
+| 🕸️ **Graph Data Science** | Neo4j, Cypher, Graph Analytics e Recommendation Systems |
+| ☁️ **Cloud & Digital** | Oracle Cloud Infrastructure, APIs e aplicações digitais |
 
 ---
 
-### 📊 Operação Labora / Ambipar
+# ⭐ Featured Projects
 
-Projeto de **Data Analytics aplicado a uma operação real**, utilizando dados para acompanhamento de indicadores, produtividade e desempenho operacional.
+Uma seleção de projetos que representa a integração entre **negócio, dados, inteligência artificial e desenvolvimento de soluções**.
 
-`Python` `Streamlit` `Pandas` `Data Analytics` `Data Visualization`
+---
+
+## 🛒 DealMind AI
+
+**AI-powered Price Intelligence & Shopping Copilot**
+
+Plataforma desenvolvida para descoberta, acompanhamento e análise de ofertas, combinando histórico de preços, monitoramento de produtos e inteligência para apoiar decisões de compra.
+
+O projeto evoluiu de um MVP para uma aplicação estruturada, explorando conceitos de **produto digital, APIs, persistência de dados, automação e Inteligência Artificial aplicada ao e-commerce**.
+
+**Principais competências**
+
+`Python` `FastAPI` `Streamlit` `PostgreSQL` `APIs` `Price Intelligence` `AI`
+
+🔗 [Explorar DealMind AI](https://github.com/MCLG1661/Dealmind-AI)
+
+---
+
+## 🏆 TechMind — Hackathon ONE
+
+Projeto desenvolvido em equipe durante Hackathon, integrando diferentes tecnologias e disciplinas na construção de uma solução completa.
+
+A experiência envolveu **desenvolvimento colaborativo, arquitetura de solução, Machine Learning, backend, frontend e Cloud**, além da dinâmica de desenvolvimento orientada a uma entrega com prazo definido.
+
+**Principais competências**
+
+`Machine Learning` `Java` `Spring Boot` `Angular` `OCI` `Teamwork`
+
+🔗 [Explorar TechMind](https://github.com/MCLG1661/G9-BR-Team-04)
+
+---
+
+## 🧠 AI Knowledge Assistant
+
+**RAG-based AI assistant for document knowledge management**
+
+Assistente de Inteligência Artificial capaz de transformar documentos em uma **base de conhecimento pesquisável e persistente**.
+
+A solução implementa uma arquitetura de **Retrieval-Augmented Generation (RAG)** com processamento documental, embeddings, indexação vetorial e recuperação semântica de contexto para geração de respostas em linguagem natural.
+
+**Principais competências**
+
+`Python` `RAG` `FAISS` `Embeddings` `Google Gemini` `Gradio` `Semantic Search`
+
+🔗 [Explorar AI Knowledge Assistant](https://github.com/MCLG1661/Challenge-ONE-AI-Tech-Builder-AI-Knowledge-Assitant)
+
+---
+
+## 📡 Telecom X BR I — Customer Churn Analytics
+
+Projeto de **Data Analytics** voltado à compreensão dos fatores associados à evasão de clientes.
+
+O trabalho envolve tratamento e exploração dos dados, análise de comportamento e identificação de segmentos com maior incidência de churn.
+
+Entre os resultados observados, destacam-se diferenças relevantes relacionadas ao **tipo de contrato e ao tempo de relacionamento**, transformando a análise exploratória em insights aplicáveis a estratégias de retenção.
+
+**Principais competências**
+
+`Python` `Pandas` `ETL` `EDA` `Churn Analytics` `Data Visualization` `Business Insights`
+
+🔗 [Explorar Telecom X BR I](https://github.com/MCLG1661/Telecom-X-BR-I)
+
+---
+
+## 🗺️ Municipal Clustering — Portugal
+
+Análise de municípios portugueses utilizando técnicas de **Machine Learning não supervisionado e análise estatística**.
+
+O projeto utiliza dados da **PORDATA** para explorar padrões socioeconômicos e de sustentabilidade, aplicando técnicas como **K-Means, PCA e ANOVA** para identificar grupos de municípios com características semelhantes.
+
+**Principais competências**
+
+`Python` `K-Means` `PCA` `ANOVA` `Scikit-learn` `PORDATA` `Data Science`
+
+🔗 [Explorar Municipal Clustering](https://github.com/MCLG1661/Municipal-Clustering)
+
+---
+
+## 📊 Operations Performance Analytics
+
+Projeto baseado na aplicação de **Data Analytics ao acompanhamento de uma operação empresarial**, estruturando indicadores para análise de produtividade, desempenho e evolução operacional.
+
+A solução demonstra como dados operacionais podem ser transformados em **KPIs, visualizações e informações gerenciais**, conectando analytics à tomada de decisão.
+
+**Principais competências**
+
+`Python` `Streamlit` `Pandas` `KPIs` `Operations Analytics` `Data Visualization`
 
 🔗 [Explorar projeto](https://github.com/MCLG1661/Operacao-Labora-Ambipar)
 
 ---
 
-### 🤖 AI Knowledge Assistant
+## 🧪 Outros Projetos
 
-Sistema para **organização, classificação e recuperação de conhecimento técnico**, combinando Machine Learning, APIs e recursos de Inteligência Artificial.
+Além dos projetos destacados, o portfólio inclui experimentos e soluções em diferentes áreas.
 
-`Python` `Machine Learning` `NLP` `FastAPI` `OCI`
+### 📈 Marketing Intelligence Analyst — MIA
 
-🔗 [Explorar projeto](https://github.com/MCLG1661/CHALLENGE-ONE-AI-TECH-BUILDER-AI-Knowledge-Assitant)
+Aplicação de Marketing Intelligence voltada à transformação de dados de campanhas em análises e insights.
 
----
-
-### 📈 Analista de Marketing Inteligente — MIA
-
-Projeto de **Marketing Intelligence** desenvolvido para transformar dados de campanhas em análises e insights que apoiem decisões orientadas por dados.
-
-`Python` `Marketing Analytics` `Data Analytics` `AI`
+`Marketing Analytics` `Python` `Data Analytics` `AI`
 
 🔗 [Explorar projeto](https://github.com/MCLG1661/Analista-de-Marketing-Inteligente-)
 
----
-
 ### 🕸️ Sistema de Recomendação Musical
 
-Aplicação de **Graph Data Science** para explorar relações entre músicas e construir mecanismos de recomendação utilizando estruturas de grafos.
+Aplicação de Graph Data Science explorando relações entre músicas e mecanismos de recomendação baseados em grafos.
 
-`Neo4j` `Graph Data Science` `Cypher` `Recommendation Systems`
+`Neo4j` `Cypher` `Graph Data Science` `Recommendation Systems`
 
 🔗 [Explorar projeto](https://github.com/MCLG1661/Algoritmo-Que-Recomenda-Musicas)
 
----
+### 🏆 Imersão DEV 10
 
-## 🏆 Destaques & Reconhecimentos
+Projeto de desenvolvimento Web selecionado entre os **10 melhores trabalhos da Imersão DEV 10**.
 
-### 💻 Enciclopédia de Tecnologia — Imersão DEV 10
-
-Base de conhecimento interativa sobre tecnologia desenvolvida com JavaScript e JSON.
-
-**Projeto selecionado entre os 10 melhores trabalhos da Imersão DEV 10.**
-
-`JavaScript` `HTML5` `CSS3` `JSON` `Information Retrieval`
+`JavaScript` `HTML` `CSS` `JSON`
 
 🔗 [Explorar projeto](https://github.com/MCLG1661/Imersao-DEV-10)
 
 ---
 
-## 🗂️ Portfólio por Categoria
+## 🧩 Competências Técnicas
 
-Os demais projetos, foram organizados, de acordo com seu papel dentro da minha trajetória de desenvolvimento.
+### Data & Analytics
 
-### 🟢 Projetos Complementares
+`Python` `SQL` `Pandas` `Power BI` `Power Query` `ETL` `EDA` `Data Visualization`
 
-Projetos que ampliam o portfólio demonstrando diferentes tecnologias, abordagens e aplicações.
+### Artificial Intelligence
 
-- 📡 Telecom X — Parte II
-- 🎙️ Assistente de Voz com IA
-- 📱 Instagram Lifestyle Analytics
-- 🕸️ Streaming Graph Model
-- ®️ Agente de Registro de Marcas
-- 🌱 ECO Connect AI
-- 🎮 AI Gamer Sales Assistant
-- 🌿 EcoTrip
-- ⚛️ Samsung Ocean Front End 2026
-- ⚙️ Trello Workflow Automation
-- 🧭 Mentor de Carreira
-- 💬 Conversa com Grana
-- 📖 Memórias Invisíveis
-- 🎧 DJ Marcus Guedes - Portfólio
+`Machine Learning` `Generative AI` `LLMs` `RAG` `Embeddings` `Semantic Search` `AI Agents` `NLP`
 
+### Graph Data Science
 
-### 🟡 Learning & Challenges
+`Neo4j` `Cypher` `Graph Analytics` `Recommendation Systems`
 
-Projetos desenvolvidos durante cursos, bootcamps, challenges e etapas da minha formação técnica.
+### Applications & Cloud
 
-- 📡 Telecom X — Parte I
-- 🛍️ Alura Store
-- 📊 Alura Imersão Dados Python
-- 🎵 Beatles / NotebookLM
-- 🎁 Amigo Secreto
-- 🔢 Número Secreto
+`FastAPI` `Streamlit` `Gradio` `Git` `GitHub` `Oracle Cloud Infrastructure`
 
-## 🧰 Tech Stack & Competências
+### Business & Management
 
-### 📊 Data & Analytics
-
-`Python` `SQL` `Pandas` `Power BI` `Power Query` `ETL` `Data Visualization`
-
-### 🤖 Artificial Intelligence
-
-`Machine Learning` `Generative AI` `LLMs` `RAG` `Prompt Engineering` `AI Agents` `NLP`
-
-### 🕸️ Graph Data Science
-
-`Neo4j` `Cypher` `Graph Data Science` `Recommendation Systems`
-
-### ☁️ Cloud & Development
-
-`Oracle Cloud Infrastructure` `FastAPI` `Streamlit` `Git` `GitHub`
-
-### 📈 Business & Management
-
-`Project Management` `Operations` `Marketing Analytics` `CRM` `KPIs` `Business Strategy`
+`Project Management` `PMO` `Operations` `KPIs` `Marketing Analytics` `CRM` `Business Strategy`
 
 ---
 
-## 🔭 Atualmente Explorando
+## 💻 Tecnologias deste Portfolio
 
-Meu desenvolvimento atual está concentrado principalmente em :
+O próprio portfólio é uma aplicação Web.
 
-- Inteligência Artificial aplicada a negócios
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
-- Data Science & Analytics
-- Graph Data Science
-- Marketing Intelligence
-- Automação de processos
-- Gestão de projetos de tecnologia
+| Tecnologia | Aplicação |
+|---|---|
+| **React** | Interface baseada em componentes |
+| **TypeScript** | Desenvolvimento tipado |
+| **Vite** | Build e ambiente de desenvolvimento |
+| **Tailwind CSS** | Estilização |
+| **shadcn/ui** | Componentes de interface |
+| **Lovable** | Desenvolvimento e prototipação |
+| **Git / GitHub** | Versionamento e documentação |
 
 ---
 
-## 💡 Minha Abordagem
+## 🏗️ Estrutura do Projeto
 
-Tecnologia, por si só, não resolve problemas de negócio.
+```text
+Marcus-Guedes-Professional-Portfolio/
+│
+├── public/
+│
+├── src/
+│   ├── components/
+│   ├── pages/
+│   └── ...
+│
+├── package.json
+├── vite.config.ts
+├── tsconfig.json
+└── README.md
+```
 
-Por isso, procuro desenvolver projetos partindo de três perguntas :
+---
 
-**1. Qual problema estamos tentando resolver ?**  
-**2. Como dados e tecnologia podem apoiar essa decisão ?**  
-**3. Qual valor a solução efetivamente entrega ?**
+## 🚀 Executando Localmente
 
-Essa abordagem conecta minha experiência em **negócios e gestão** ao desenvolvimento de competências em **Dados e Inteligência Artificial**.
+```bash
+git clone https://github.com/MCLG1661/Marcus-Guedes-Professional-Portfolio.git
+cd Marcus-Guedes-Professional-Portfolio
+npm install
+npm run dev
+```
+
+---
+
+## 💡 Princípio
+
+> **Tecnologia gera mais valor quando está conectada à compreensão do problema de negócio.**
+
+Essa é a lógica que conecta os projetos deste portfólio:
+
+```text
+Problema
+   ↓
+Dados
+   ↓
+Análise
+   ↓
+Tecnologia
+   ↓
+Insight / Solução
+   ↓
+Decisão
+   ↓
+Resultado
+```
+
+O portfólio busca demonstrar não apenas conhecimento técnico, mas a capacidade de **conectar gestão, dados e tecnologia para construir soluções aplicáveis a contextos reais**.
 
 ---
 
@@ -220,14 +294,16 @@ Essa abordagem conecta minha experiência em **negócios e gestão** ao desenvol
 
 **Marcus Guedes**
 
-📧 marcusguedes@primeperformancedigital.com.br
+📧 [marcusguedes@primeperformancedigital.com.br](mailto:marcusguedes@primeperformancedigital.com.br)
 
-💼 [LinkedIn](https://www.linkedin.com/in/marcusguedes/)
+💼 [LinkedIn — Marcus Guedes](https://www.linkedin.com/in/marcusguedes/)
 
-🐙 [GitHub](https://github.com/MCLG1661)
+💻 [GitHub — MCLG1661](https://github.com/MCLG1661)
+
+🌐 [Professional Portfolio](https://portfolio-update-buddy.lovable.app/)
 
 ---
 
-**CONSTRUINDO SOLUÇÕES QUE CONECTAM TECNOLOGIA, INTELIGÊNCIA E TOMADA DE DECISÃO**
+### Business + Data + AI
 
-
+**Gestão e experiência de negócio potencializadas por Data Analytics e Inteligência Artificial aplicada.**
