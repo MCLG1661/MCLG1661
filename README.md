@@ -20,7 +20,7 @@ Profissional multidisciplinar com experiência em gestão, operações, marketin
 | [DealCraft AI](https://github.com/MCLG1661/DealCraft-AI) | Estruturação e validação de oportunidades e propostas B2B | Sales intelligence, regras comerciais, IA |
 | [Marketing Intelligence AI](https://github.com/MCLG1661/Marketing-Intelligence-AI) | Agente para planejamento, análise e recomendações de marketing | Marketing analytics, estratégia, engenharia de prompts |
 | [VoeBem Analytics AI](https://github.com/MCLG1661/VoeBem-Analytics-AI) | Pipeline analítico de dados públicos da aviação brasileira | Databricks, Spark, Delta Lake, Genie |
-| [Operação Labora / Ambipar](https://github.com/MCLG1661/Operacao-Labora-Ambipar) | Dashboard de indicadores operacionais | Python, Pandas, Streamlit, Plotly |
+| [Operations Analytics](https://github.com/MCLG1661/Operacao-Labora-Ambipar) | Dashboard de BI operacional com dados sintéticos | Python, Pandas, Streamlit, Plotly |
 | [Professional Portfolio](https://github.com/MCLG1661/Marcus-Guedes-Professional-Portfolio) | Trajetória profissional e projetos selecionados | Gestão, negócios, dados e IA |
 
 ## Explore por área
@@ -49,7 +49,7 @@ Profissional multidisciplinar com experiência em gestão, operações, marketin
 
 ### Data Engineering, Analytics & Machine Learning
 - [VoeBem Analytics AI](https://github.com/MCLG1661/VoeBem-Analytics-AI)
-- [Labora / Ambipar](https://github.com/MCLG1661/Operacao-Labora-Ambipar)
+- [Operations Analytics](https://github.com/MCLG1661/Operacao-Labora-Ambipar)
 - [Municipal Clustering](https://github.com/MCLG1661/Municipal-Clustering) — PORDATA, K-Means, GeoPandas e Folium.
 - [Telecom X I](https://github.com/MCLG1661/Telecom-X-BR-I) e [Telecom X II](https://github.com/MCLG1661/Telecom-X-BR-II) — análise e predição de churn.
 - [Streaming Graph Model](https://github.com/MCLG1661/Streaming-Graph-Model) e [Music Recommendation](https://github.com/MCLG1661/Algoritmo-Que-Recomenda-Musicas) — Neo4j e Cypher.
