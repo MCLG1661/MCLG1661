@@ -8,6 +8,11 @@ Transformo experiência em negócios, dados e inteligência artificial em soluç
 
 [Portfólio profissional](https://portfolio-update-buddy.lovable.app/) · [LinkedIn](https://www.linkedin.com/in/marcusguedes/) · [Contato](mailto:marcusguedes@primeperformancedigital.com.br)
 
+
+## English overview
+
+I combine experience in business management, operations, marketing and strategy with data analytics, AI and automation. My approach starts with the business problem, evaluates evidence and defines practical actions and performance indicators. The featured projects below illustrate this multidisciplinary portfolio.
+
 ## Sobre mim
 
 Profissional multidisciplinar com experiência em gestão, operações, marketing e estratégia, integrada ao desenvolvimento de soluções em analytics, inteligência artificial e automação. Minha abordagem começa pelo problema de negócio, passa pela avaliação das evidências e termina na definição de ações e indicadores que permitam avaliar resultados.
